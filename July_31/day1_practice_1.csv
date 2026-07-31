@@ -1,0 +1,16 @@
+CustomerID,Name,Age,SignupDate,Country,Spend,Active,Notes
+1001,Ravi Kumar,34,2021-03-15,India,$245.50,Yes,
+1002,Maria Garcia,29,03/16/2021,Spain,312,1,Regular customer
+1003,John Smith,,2021-03-17,USA,$89.00,No,
+1004,Aisha Bello,41,2021-03-18,Nigeria,N/A,yes,Missing
+1005,Chen Wei,,17-03-2021,China,150.75,0,
+1006,,38,2021-03-19,,$0.00,No,n/a
+1007,Fatima Noor,27,2021/03/20,Pakistan,410,Y,VIP
+1008,Tom Wilson,52,2021-03-21,UK,$0,N,
+1009,Lucia Rossi,33,03-22-2021,Italy,275.25,yes,
+1010,David Lee,,2021-03-23,South Korea,$99.99,no,Missing
+1011,Sara Ahmed,45,2021-03-24,Egypt,NaN,1,
+1012,Peter Novak,,2021-03-25,Czechia,$180.00,0,unknown
+1013,Grace Mwangi,,2021-03-26,Kenya,60,Yes,
+1014,Liam O'Brien,31,2021-03-27,Ireland,$300.10,No,
+1015,Yuki Tanaka,26,2021-03-28,Japan,N/A,y,VIP
