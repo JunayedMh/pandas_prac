@@ -1,0 +1,21 @@
+MemberID,Name,Age,Height,Weight,MembershipType,MonthlyFee,JoinDate,Email,Status,Notes
+G001,Ahsan Reza,29,175cm,70kg,Premium,$49.99,2023-02-01,ahsan.reza@gmail.com,active,
+G002,Meera Nair,34,5.6ft,132lbs,premium,49.99,02/03/2023,meera.nair@gmail.com,Active,
+G003,Tomasz Kowalski,41,180cm,,Basic,$19.99,2023-02-05,tomasz.k@,ACTIVE,No email domain
+G004,,150,168cm,60kg,VIP,$99.99,05-02-2023,jenny_oconnor@yahoo.com,active,Age typo?
+G005,Carlos Mendes,25,,82kg,Basc,$19.99,2023-02-08,carlos.mendes@hotmail.com,inactive,Typo in plan
+G006,Aiko Sato,31,162cm,54kg,Premium,,2023-02-10,aiko.sato@gmail.com,Active,Missing fee
+G007,Ben Turner,-5,178cm,75kg,Basic,$19.99,10/02/2023,ben.turner@gmail.com,active,Negative age
+G008,Ravi Chandran,45,171cm,68kg,Premeium,$49.99,2023-02-12,ravi.chandran@gmail.com,Inactive,Typo in plan
+G009,Ravi Chandran,45,171cm,68kg,Premium,$49.99,2023-02-12,ravi.chandran@gmail.com,inactive,Possible duplicate
+G010,Nadia Popescu,,158cm,50kg,VIP,$99.99,12-02-2023,nadia.popescu@gmail.com,active,Missing age
+G011,Diego Fernandez,38,183cm,90kg,basic,$19.99,2023-02-14,diego.fernandez,active,Bad email format
+G012,Lin Chen,27,165cm,58kg,Premium,$49.99,2023-02-15,lin.chen@gmail.com,active,
+G013,Grace Osei,52,160cm,,VIP,$99.99,15/02/2023,grace.osei@gmail.com,ACTIVE,
+G014,Omar Farouk,,177cm,80kg,Basic,$19.99,2023-02-17,omar.farouk@gmail.com,active,VIP trial
+G015,Sara Kim,33,5.4ft,120lbs,Premium,$49.99,2023-02-18,sara.kim@gmail.com,Active,
+G016,Jonas Weber,29,182cm,88kg,VIP,$0.00,2023-02-19,jonas.weber@gmail.com,inactive,Fee looks wrong
+G017,Priya Iyer,36,,63kg,Basic,$19.99,19-02-2023,priya.iyer@gmail.com,active,
+G018,Michael Brown,300,174cm,79kg,Premium,$49.99,2023-02-21,michael.brown@gmail.com,active,Age outlier
+G019,Elena Rossi,24,170cm,,basic,$19.99,2023-02-22,elena.rossi@gmail.com,ACTIVE,
+G020,Elena Rossi,24,170cm,55kg,Basic,$19.99,2023-02-22,elena.rossi@gmail.com,active,Duplicate?
