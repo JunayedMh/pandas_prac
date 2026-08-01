@@ -1,0 +1,16 @@
+OrderID,Customer,Qty,UnitPrice,Discount,OrderDate,Status,Comment
+5001,Priya Shah,3,$45.00,10%,2022-01-05,shipped,
+5002,Omar Haddad,,$12.50,0%,01/06/2022,Shipped,Regular buyer
+5003,Nina Petrova,5,60,,2022-01-07,PENDING,
+5004,,2,$8.99,5%,2022-01-08,shipped,VIP
+5005,Marcus Lee,1,$150.00,0%,07-01-2022,cancelled,
+5006,Nina Petrova,5,$60.00,,2022-01-07,pending,Duplicate?
+5007,Ines Duarte,4,,10%,2022-01-09,Shipped,
+5008,Tariq Ahmed,,$22.00,0%,2022-01-10,shipped,unknown
+5009,Wei Zhang,2,$99.00,20%,10/01/2022,Cancelled,
+5010,Jonas Berg,3,$30.50,0%,2022-01-11,shipped,
+5011,Sofia Reyes,,$0.00,0%,2022-01-12,pending,Missing
+5012,Aiden Clarke,6,$18.25,5%,12-01-2022,shipped,
+5013,,3,$45.00,10%,2022-01-05,shipped,Duplicate?
+5014,Hana Kobayashi,2,$75.00,,2022-01-13,SHIPPED,
+5015,Leo Fischer,1,$40.00,0%,2022-01-14,pending,VIP
