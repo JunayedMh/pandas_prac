@@ -1,0 +1,29 @@
+BookingID,GuestName,Email,Phone,RoomType,CheckIn,CheckOut,Nights,RatePerNight,TotalPaid,LoyaltyMember,ZipCode,SpecialRequests,Status
+H001,Clara Jensen,clara.jensen@gmail.com,617-555-0134,Standard,2023-04-01,2023-04-04,3,$150.00,$450.00,Yes,02138,Late checkout,Confirmed
+H002,Marcus Webb,marcus.webb@yahoo.com,617-555-0177,deluxe,04/02/2023,04/05/2023,3,"$1,250.00",$3750.00,No,10001,,confirmed
+H003,Aiyana Redcloud,aiyana.r@gmail.com,617.555.0188,Suite,04-03-2023,04-02-2023,,999,$2997.00,Maybe,07030,Extra pillows,CONFIRMED
+H004,Tobias Kruger,tobias.kruger@hotmail.com,,STANDARD,2023-04-05,2023-04-08,3,$150.00,$450.00,y,02139,   ,confirmed
+H005,Clara Jensen,clara.jensen@gmail.com,617-555-0134,Standard,04/01/2023,04/04/2023,3,$150.00,$450.00,Yes,02138,Late checkout,Confirmed
+H006,Nia Osei,nia.osei@gmail.com,617-555-0199,Delux,04-06-2023,04-09-2023,3,1.2e3,$3600.00,n,60601,High floor requested,cancelled
+H007,Ravi Patel,ravi.patel@gmail.com,617-555-0122,Suite,2023-04-06,2023-04-09,3,$999.00,$2997.00,0,94102,,Cancelled
+H008,Elin Sandberg,elin.sandberg@gmail.com,617-555-0155,Standard,04/07/2023,04/08/2023,1,$150.00,$150.00,Pending,73301,None,pending
+H009,Jorge Alonso,jorge.alonso@gmail.com,617-555-0166,deluxe,04-07-2023,04-10-2023,3,"$1,250.00",$3750.00,Maybe,33101,,Confirmed
+H010,Ravi Patel,ravi.patel@gmail.com,617-555-0122,Suite,2023-04-06,2023-04-09,3,$999.00,$2997.00,0,94102,,Cancelled
+H011,Wanjiru Kamau,wanjiru.k@gmail.com,617-555-0111,Standard,04/09/2023,04/10/2023,1,$150.00,$150.00,Yes,98101,Quiet room,confirmed
+H012,Felix Moreau,felix.moreau@gmail.com,617-555-0144,suite,04-09-2023,,3,$999.00,$2997.00,No,02108,,Confirmed
+H013,Hana Suzuki,hana.suzuki@gmail.com,,Deluxe,2023-04-10,2023-04-13,3,"$1,250.00",$3750.00,1,97201,Airport shuttle,CONFIRMED
+H014,Grace Owusu,grace.owusu@gmail.com,617-555-0133,Standard,04/10/2023,04/12/2023,5,$150.00,$300.00,Yes,75201,Nights mismatch?,confirmed
+H015,Dmitri Volkov,dmitri.volkov@gmail.com,617-555-0188,STANDARD,04-11-2023,04-12-2023,1,$150.00,$150.00,No,85001,,Pending
+H016,Amara Nwosu,amara.nwosu@gmail.com,617-555-0177,Suite,2023-04-11,2023-04-14,3,$999.00,$2997.00,Maybe,37201,,confirmed
+H017,Leif Eriksson,leif.eriksson@gmail.com,617-555-0199,Delux,04/12/2023,04/15/2023,3,"$1,250.00",$3750.00,y,33602,High floor,Confirmed
+H018,Priya Nair,priya.nair@gmail.com,617-555-0122,Standard,04-12-2023,04-13-2023,1,$150.00,$150.00,n,43004,,cancelled
+H019,Carlos Reyes,carlos.reyes@gmail.com,617-555-0166,deluxe,2023-04-13,2023-04-16,3,"$1,250.00",$3750.00,Pending,92101,,Confirmed
+H020,Ingrid Nilsen,ingrid.nilsen@gmail.com,617-555-0155,Suite,04/13/2023,04/16/2023,,$999.00,$2997.00,Yes,94102,Sea view,CONFIRMED
+H021,Tariq Malik,tariq.malik@gmail.com,,Standard,04-14-2023,04-15-2023,1,$150.00,$150.00,0,77002,,confirmed
+H022,Beatriz Costa,beatriz.costa@gmail.com,617-555-0111,suite,2023-04-14,2023-04-17,3,$999.00,$2997.00,No,30301,,Cancelled
+H023,Sung-min Park,sungmin.park@gmail.com,617-555-0144,Deluxe,04/15/2023,04/18/2023,3,"$1,250.00",$3750.00,Maybe,60601,Extra towels,Confirmed
+H024,Noor Haddad,noor.haddad@gmail.com,617-555-0133,Standard,04-15-2023,04-16-2023,1,$150.00,$150.00,1,89101,,confirmed
+H025,Elin Sandberg,elin.sandberg@gmail.com,617-555-0155,Standard,2023-04-07,2023-04-08,1,$150.00,$150.00,Pending,73301,,Pending
+H026,Yusuf Demir,yusuf.demir@gmail.com,617-555-0177,Suite,04/16/2023,04/19/2023,3,$999.00,$2997.00,Yes,32801,Balcony room,CONFIRMED
+H027,Lucia Marino,lucia.marino@gmail.com,617-555-0199,deluxe,04-17-2023,04-20-2023,3,"$1,250.00",$3750.00,No,48201,,confirmed
+H028,Anders Berg,anders.berg@gmail.com,617-555-0122,Standard,2023-04-17,2023-04-18,1,$150.00,$150.00,n,60614,,Confirmed
