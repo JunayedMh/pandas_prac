@@ -1,0 +1,26 @@
+ReservationID,CustomerName,Email,Phone,CarType,PickupDate,ReturnDate,RentalDays,DailyRate,TotalCost,InsuranceOpted,DriverLicenseNo,Notes,Status
+R001,Owen Marsh,owen.marsh@gmail.com,312-555-0111,Economy,2023-05-01,2023-05-04,3.0,45.0,165.0,Yes,456781,,Completed
+R002,Bianca Ruiz,bianca.ruiz@gmail.com,312-555-0122,Economy,2023-05-02,2023-05-05,3.0,45.0,135.0,No,456782,,Completed
+R003,Femi Adeyemi,femi.adeyemi@gmail.com,312.555.0133,Suv,2023-05-03,,,89.0,,Pending,456783,Return Date Tbd,Active
+R004,Katarina Novak,katarina.novak@hotmail.com,,Compact,2023-05-05,2023-05-08,3.0,55.0,195.0,Yes,456784,,Completed
+R006,Diego Salas,diego.salas@gmail.com,312-555-0199,Econimy,2023-05-06,2023-05-09,3.0,45.0,135.0,No,456786,Typo In Car Type,Completed
+R007,Priya Kapoor,priya.kapoor@gmail.com,312-555-0155,Suv,2023-05-06,2023-05-09,3.0,89.0,297.0,Yes,456787,,Active
+R008,Hugo Bernard,hugo.bernard@gmail.com,312-555-0166,Compact,2023-05-07,2023-05-08,1.0,55.0,55.0,Pending,456788,,Completed
+R009,Aisha Bello,aisha.bello@gmail.com,312-555-0177,Economy,2023-05-07,2023-05-10,3.0,45.0,135.0,No,456789,,Completed
+R011,Marcus Lindqvist,marcus.lindqvist@gmail.com,312-555-0188,Economy,2023-05-09,2023-05-10,1.0,45.0,55.0,Yes,456711,,Completed
+R012,Tomas Bruun,tomas.bruun@gmail.com,312-555-0111,Suv,2023-05-09,2023-05-12,3.0,89.0,267.0,No,456712,,Completed
+R013,Layla Haddad,layla.haddad@gmail.com,,Compact,2023-05-10,2023-05-13,3.0,55.0,195.0,Yes,456713,Airport Pickup,Active
+R014,Connor Doyle,connor.doyle@gmail.com,312-555-0133,Economy,2023-05-10,2023-05-12,2.0,45.0,90.0,No,456714,Days Mismatch?,Completed
+R015,Yara Mansour,yara.mansour@gmail.com,312-555-0188,Economy,2023-05-11,2023-05-12,1.0,45.0,45.0,Pending,456715,,Active
+R016,Stefan Petrov,stefan.petrov@gmail.com,312-555-0177,Suv,2023-05-11,2023-05-14,3.0,89.0,297.0,Yes,456716,,Completed
+R017,Camille Girard,camille.girard@gmail.com,312-555-0199,Econimy,2023-05-12,2023-05-15,3.0,45.0,135.0,No,456717,,Completed
+R018,Nina Volkova,nina.volkova@gmail.com,312-555-0122,Compact,2023-05-12,2023-05-13,1.0,55.0,55.0,No,456718,,Active
+R019,Samuel Okoro,samuel.okoro@gmail.com,312-555-0166,Suv,2023-05-13,2023-05-16,3.0,89.0,267.0,Pending,456719,,Completed
+R020,Ines Duarte,ines.duarte@gmail.com,312-555-0155,Suv,2023-05-13,2023-05-16,3.0,89.0,297.0,Yes,456720,,Active
+R021,Malik Freeman,malik.freeman@gmail.com,,Economy,2023-05-14,2023-05-15,1.0,45.0,45.0,No,456721,,Completed
+R022,Greta Hoffmann,greta.hoffmann@gmail.com,312-555-0111,Compact,2023-05-14,2023-05-17,3.0,55.0,165.0,No,456722,,Completed
+R023,Junho Lee,junho.lee@gmail.com,312-555-0144,Economy,2023-05-15,2023-05-18,3.0,45.0,135.0,Pending,456723,,Active
+R024,Wanjiku Njoroge,wanjiku.njoroge@gmail.com,312-555-0133,Suv,2023-05-15,2023-05-16,1.0,89.0,99.0,Yes,456724,,Completed
+R026,Otto Weber,otto.weber@gmail.com,312-555-0177,Suv,2023-05-16,2023-05-19,3.0,89.0,267.0,No,456726,,Active
+R027,Lucia Marino,lucia.marino@gmail.com,312-555-0199,Compact,2023-05-17,2023-05-20,3.0,55.0,195.0,Yes,456727,,Completed
+R028,Anders Berg,anders.berg@gmail.com,312-555-0122,Economy,2023-05-17,2023-05-18,1.0,45.0,45.0,No,456728,,Completed
