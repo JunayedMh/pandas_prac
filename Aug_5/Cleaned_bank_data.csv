@@ -1,0 +1,33 @@
+transactionid,account_holder,email,transactiondate,merchant,main_category,sub_category,amount,type,branch_code,paymentmethod,is_international,status,notes
+T1001,Owen Marsh,owen.marsh@gmail.com,2023-06-01,Whole Foods,Groceries,Food,-84.2,Debit,452,Debit Card,No,Completed,
+T1002,Bianca Ruiz,bianca.ruiz@gmail.com,2023-06-01,Amazon,Shopping,Online,-142.99,Debit,452,Credit Card,No,Completed,
+T1003,Femi Adeyemi,femi.adeyemi@gmail.com,2023-06-02,Employer Inc,Income,Salary,3200.0,Credit,478,Direct Deposit,No,Completed,
+T1004,Katarina Novak,katarina.novak@hotmail.com,2023-06-02,Netflix,Entertainment,Streaming,-15.99,Debit,452,Debit Card,No,Completed,
+T1006,Diego Salas,diego.salas@gmail.com,2023-06-03,Shell Gas,Auto,Fuel,-52.1,Debit,490,Debit Card,No,Completed,
+T1007,Priya Kapoor,priya.kapoor@gmail.com,2023-06-03,Amazon,Shopping,Online,-38.4,Debit,452,Credit Card,No,Completed,Merchant name typo?
+T1008,Hugo Bernard,hugo.bernard@gmail.com,2023-06-04,Employer Inc,Income,Salary,2900.0,Credit,478,Direct Deposit,No,Completed,
+T1009,Aisha Bello,aisha.bello@gmail.com,2023-06-04,Delta Airlines,Travel,Flights,-410.0,Debit,501,Credit Card,Yes,Completed,
+T1011,Marcus Lindqvist,marcus.lindqvist@gmail.com,2023-06-05,Starbucks,Groceries,Food,-6.75,Debit,452,Debit Card,No,Completed,
+T1012,Tomas Bruun,tomas.bruun@gmail.com,2023-06-05,Uber,Transport,Rideshare,-24.5,Debit,490,Credit Card,No,Completed,
+T1013,Layla Haddad,layla.haddad@gmail.com,2023-06-06,Employer Inc,Income,Salary,3100.0,Credit,478,Direct Deposit,No,Pending,
+T1014,Connor Doyle,connor.doyle@gmail.com,2023-06-06,Best Buy,Shopping,Electronics,-299.99,Debit,452,Credit Card,No,Completed,
+T1015,Yara Mansour,yara.mansour@gmail.com,2023-06-07,Cvs Pharmacy,Health,Pharmacy,-18.6,Debit,463,Debit Card,No,Completed,Sign mismatch?
+T1016,Stefan Petrov,stefan.petrov@gmail.com,2023-06-07,Netflix,Entertainment,Streaming,-15.99,Debit,452,Debit Card,No,Completed,Sign mismatch?
+T1017,Camille Girard,camille.girard@gmail.com,2023-06-08,Air France,Travel,Flights,-560.0,Debit,501,Credit Card,Yes,Completed,
+T1018,Nina Volkova,nina.volkova@gmail.com,2023-06-08,Trader Joes,Groceries,Food,-63.15,Debit,452,Debit Card,No,Completed,
+T1019,Samuel Okoro,samuel.okoro@gmail.com,2023-06-09,Employer Inc,Income,Salary,2950.0,Credit,478,Direct Deposit,No,Failed,
+T1020,Ines Duarte,ines.duarte@gmail.com,2023-06-09,Lyft,Transport,Rideshare,-19.3,Debit,490,Credit Card,No,Completed,
+T1021,Malik Freeman,malik.freeman@gmail.com,2023-06-10,Walgreens,Health,Pharmacy,-27.85,Debit,463,Debit Card,No,Completed,
+T1022,Greta Hoffmann,greta.hoffmann@gmail.com,2023-06-10,Amazon,Shopping,Online,-91.2,Debit,452,Credit Card,No,Completed,
+T1023,Junho Lee,junho.lee@gmail.com,2023-06-11,Employer Inc,Income,Salary,3050.0,Credit,478,Direct Deposit,No,Completed,
+T1024,Wanjiku Njoroge,wanjiku.njoroge@gmail.com,2023-06-11,United Airlines,Travel,Flights,-320.0,Debit,501,Credit Card,Yes,Completed,
+T1026,Otto Weber,otto.weber@gmail.com,2023-06-12,Whole Foods,Groceries,Food,-71.4,Debit,452,Debit Card,No,Completed,
+T1027,Lucia Marino,lucia.marino@gmail.com,2023-06-12,Spotify,Entertainment,Streaming,-9.99,Debit,452,Debit Card,No,Completed,
+T1028,Anders Berg,anders.berg@gmail.com,2023-06-13,Shell Gas,Auto,Fuel,-48.0,Debit,490,Debit Card,No,Completed,
+T1029,Sana Malik,sana.malik@gmail.com,2023-06-13,Employer Inc,Income,Salary,3200.0,Credit,478,Direct Deposit,No,Completed,
+T1030,Diego Fernandez,diego.fernandez@gmail.com,2023-06-14,Cvs Pharmacy,Health,Pharmacy,-22.1,Debit,463,Debit Card,No,Completed,
+T1031,Yuki Tanaka,yuki.tanaka@gmail.com,2023-06-14,Uber,Transport,Rideshare,-31.75,Debit,490,Credit Card,No,Completed,
+T1032,Chidi Okafor,chidi.okafor@gmail.com,2023-06-15,Amazon,Shopping,Online,-54.6,Debit,452,Credit Card,No,Completed,Merchant name typo?
+T1033,Sara Kim,sara.kim@gmail.com,2023-06-15,Employer Inc,Income,Salary,2980.0,Credit,478,Direct Deposit,No,Completed,
+T1034,Leo Fischer,leo.fischer@gmail.com,2023-06-16,Trader Joes,Groceries,Food,-58.3,Debit,452,Debit Card,No,Completed,
+T1035,Nadia Osei,nadia.osei@gmail.com,2023-06-16,Delta Airlines,Travel,Flights,-275.0,Debit,501,Credit Card,Yes,Completed,
