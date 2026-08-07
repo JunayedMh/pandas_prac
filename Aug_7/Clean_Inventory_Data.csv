@@ -1,0 +1,40 @@
+ProductID,Color,Size,ProductName,Category,Weight,ListPrice,DiscountPercent,Price,StockQty,WarehouseCode,Supplier,RestockDate,IsActive,Rating,OriginCountry,Notes
+1001,RED,L,classic cotton t-shirt,Apparel,0.18 kg,$19.99,10%,$17.99,120.0,234,Fabrico,2023-06-15,Yes,4.5,USA,
+1001,BLU,M,classic coton t-shirt,Apparel,0.18 kg,$19.99,10%,$17.99,85.0,234,Fabrico,2023-06-15,Yes,4.5,USA,
+1002,BLK,S,classic cotton tshirt,Apparel,0.18 kg,$19.99,0%,$19.99,60.0,234,Fabrico,2023-06-01,Yes,4.5,USA,
+1003,GRN,XL,slim fit denim jeans,Apparel,0.65 kg,$54.99,20%,$43.99,45.0,234,Denimworks,2023-07-01,Yes,4.2,USA,
+1004,BLK,M,slim-fit denim jeans,Apparel,0.65 kg,$54.99,20%,$43.99,30.0,234,Denimworks,2023-07-01,yes,4.2,USA,Name variant
+1005,WHT,L,wireless bluetooth earbuds,Electronics,0.06 kg,$79.99,15%,$67.99,200.0,450,SoundTech,2023-05-20,Yes,4.7,China,
+1006,BLK,L,wireless bluetooth earbuds,Electronics,0.055 kg,$79.99,15%,$67.99,200.0,450,SoundTech,2023-05-20,Yes,4.7,China,
+1007,SLV,M,stainless steel water bottle,Home,0.4 kg,$24.99,0%,$24.99,150.0,312,HydroLife,2023-08-10,Yes,4.6,USA,
+1008,BLU,M,stainless steel water bottle,Home,0.4 kg,$24.99,10%,$22.49,90.0,312,HydroLife,2023-08-01,Yes,4.6,USA,
+1009,BLK,S,yoga mat premium,Fitness,1.2 kg,$34.99,25%,$26.24,70.0,312,FlexFit,2023-04-15,Yes,4.4,USA,
+1010,PNK,S,yoga mat premium,Fitness,1.2 kg,$34.99,25%,$26.24,70.0,312,FlexFit,2023-04-15,Yes,4.4,USA,Price mismatch?
+1011,BLK,M,leather wallet,Accessories,0.09 kg,$45.0,0%,$45.0,55.0,450,CraftGoods,2022-01-01,Yes,4.3,Italy,Year-only date
+1012,BRN,M,leather wallet,Accessories,0.09 kg,$45.0,0%,$45.0,55.0,450,CraftGoods,2022-11-05,Yes,4.3,Italy,Duplicate of SKU-1011?
+1013,BLU,L,running shoes pro,Footwear,0.85 kg,$89.99,30%,$62.99,40.0,234,StrideCo,2023-09-01,Yes,4.8,Vietnam,
+1014,RED,M,running shoes pro,Footwear,0.85 kg,$89.99,30%,$62.99,40.0,234,StrideCo,2023-09-01,Yes,4.8,Vietnam,
+1015,BLK,XL,ceramic coffee mug,Home,0.32 kg,$12.99,0%,$12.99,300.0,312,HydroLife,2023-03-10,Yes,4.1,USA,
+1016,WHT,L,ceramic coffee mug,Home,0.32 kg,$12.99,0%,$12.99,,312,HydroLife,2023-03-10,Yes,4.1,USA,Negative stock?
+1017,GRY,M,bluetooth speaker mini,Electronics,0.21 kg,$39.99,20%,$31.99,110.0,450,SoundTech,2023-06-25,Yes,4.5,China,
+1018,BLK,M,bluetooth speaker mini,Electronics,0.21 kg,$39.99,20%,$31.99,110.0,450,SoundTech,2023-06-01,Yes,4.5,China,Price mismatch?
+1019,RED,S,kids rain jacket,Apparel,0.3 kg,$29.99,0%,$29.99,65.0,234,LittleWear,2023-02-14,Yes,4.0,USA,
+1020,YEL,M,kids rain jacket,Apparel,0.3 kg,$29.99,10%,$26.99,65.0,234,LittleWear,2023-02-01,Yes,4.0,USA,
+1021,BLK,L,adjustable dumbbell set,Fitness,15.0 kg,$149.99,10%,$134.99,25.0,312,FlexFit,2023-01-30,Yes,4.6,USA,
+1022,GRY,L,adjustable dumbbell set,Fitness,15.0 kg,$149.99,10%,$134.99,25.0,312,FlexFit,2023-01-30,Yes,4.6,USA,
+1023,BLU,M,desk organizer set,Home,0.55 kg,$22.5,0%,$22.5,180.0,312,OfficeEase,2023-05-01,Yes,3.9,USA,
+1024,BLK,M,desk organizer set,Home,0.55 kg,$22.5,5%,$21.38,180.0,312,OfficeEase,2023-05-05,Yes,3.9,USA,
+1025,RED,XL,insulated lunch bag,Home,0.25 kg,$18.99,0%,$18.99,95.0,312,HydroLife,2023-07-20,Yes,4.2,USA,
+1026,BLU,L,insulated lunch bag,Home,0.25 kg,$18.99,15%,$16.14,95.0,312,HydroLife,2023-07-01,Yes,4.2,USA,
+1027,BLK,M,mens cotton socks 3-pack,Apparel,0.12 kg,$14.99,0%,$14.99,250.0,234,Fabrico,2023-08-01,Yes,4.3,USA,
+1028,GRY,M,men's cotton socks 3-pack,Apparel,0.12 kg,$14.99,0%,$14.99,250.0,234,Fabrico,2023-08-01,Yes,4.3,USA,Name variant
+1029,BLK,S,wireless mouse,Electronics,0.1 kg,$25.99,0%,$25.99,140.0,450,SoundTech,2023-04-12,No,4.4,China,
+1030,WHT,S,wireless mouse,Electronics,0.095 kg,$25.99,10%,$23.39,140.0,450,SoundTech,2023-04-01,No,4.4,China,
+1031,BLK,L,camping tent 2-person,Outdoor,3.2 kg,$119.99,20%,$95.99,20.0,312,TrailGear,2023-06-30,Yes,4.7,USA,
+1032,GRN,L,camping tent 2-person,Outdoor,3.2 kg,$119.99,20%,$95.99,20.0,312,TrailGear,2023-06-30,Yes,4.7,USA,
+1033,BLU,M,electric kettle,Home,0.9 kg,$32.99,0%,$32.99,75.0,312,HomeStyle,2023-03-22,Yes,4.5,USA,
+1034,BLK,M,electric kettle,Home,0.9 kg,$32.99,5%,$31.34,75.0,312,HomeStyle,2023-03-01,Yes,4.5,USA,
+1035,RED,M,baseball cap classic,Apparel,0.08 kg,$16.99,0%,$16.99,160.0,234,CapCo,2023-09-05,Yes,4.1,USA,
+1036,BLK,M,basball cap classic,Apparel,0.08 kg,$16.99,0%,$16.99,160.0,234,CapCo,2023-09-05,Yes,4.1,USA,Name typo?
+1037,SLV,L,travel backpack 40l,Outdoor,1.1 kg,$64.99,15%,$55.24,55.0,312,TrailGear,2023-02-28,Yes,4.6,USA,
+1038,BLK,L,travel backpack 40l,Outdoor,1.1 kg,$64.99,15%,$55.24,55.0,312,TrailGear,2023-02-01,Yes,4.6,USA,
