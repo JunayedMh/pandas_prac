@@ -1,0 +1,40 @@
+SKU,ProductName,Category,Weight,ListPrice,DiscountPercent,Price,StockQty,WarehouseCode,Supplier,RestockDate,IsActive,Rating,OriginCountry,Notes
+SKU-1001-RED-L,Classic Cotton T-Shirt,Apparel,180g,$19.99,10%,$17.99,120,00234,Fabrico,2023-06-15,Yes,4.5,USA,
+SKU-1001-BLU-M,Classic Coton T-Shirt,apparel,0.18kg,$19.99,10%,$17.99,85,00234,Fabrico,2023-06-15,Yes,4.5,USA,
+SKU-1002-BLK-S,classic cotton tshirt,Apparel,180g,$19.99,0%,$19.99,60,00234,Fabrico,2023-06,Yes,4.5,USA,
+SKU-1003-GRN-XL,Slim Fit Denim Jeans,Apparel,650g,$54.99,20%,$43.99,45,00234,Denimworks,2023-07-01,Yes,4.2,USA,
+SKU-1004-BLK-M,Slim-Fit Denim Jeans,apparel,0.65kg,$54.99,20%,$43.99,30,00234,Denimworks,2023-07,yes,4.2,USA,Name variant
+SKU-1005-WHT-L,Wireless Bluetooth Earbuds,Electronics,55g,$79.99,15%,$67.99,200,00450,SoundTech,2023-05-20,Yes,4.7,China,
+SKU-1006-BLK-L,Wireless Bluetooth Earbuds,electronics,0.055kg,$79.99,15%,$67.99,200,00450,SoundTech,2023-05-20,Yes,4.7,China,Exact duplicate?
+SKU-1007-SLV-M,Stainless Steel Water Bottle,Home,400g,$24.99,0%,$24.99,150,00312,HydroLife,2023-08-10,Yes,4.6,USA,
+SKU-1008-BLU-M,Stainless Steel Water Bottle,Home,0.4kg,$24.99,10%,$21.99,90,00312,HydroLife,2023-08,Yes,4.6,USA,
+SKU-1009-BLK-S,Yoga Mat Premium,Fitness,1200g,$34.99,25%,$26.24,70,00312,FlexFit,2023-04-15,Yes,4.4,USA,
+SKU-1010-PNK-S,Yoga Mat Premium,fitness,1.2kg,$34.99,25%,$29.24,70,00312,FlexFit,2023-04-15,Yes,4.4,USA,Price mismatch?
+SKU-1011-BLK-M,Leather Wallet,Accessories,90g,$45.00,0%,$45.00,55,00450,CraftGoods,2022,Yes,4.3,Italy,Year-only date
+SKU-1012-BRN-M,Leather Wallet,accessories,0.09kg,$45.00,0%,$45.00,55,00450,CraftGoods,2022-11-05,Yes,4.3,Italy,Duplicate of SKU-1011?
+SKU-1013-BLU-L,Running Shoes Pro,Footwear,850g,$89.99,30%,$62.99,40,00234,StrideCo,2023-09-01,Yes,4.8,Vietnam,
+SKU-1014-RED-M,Running Shoes Pro,footwear,0.85kg,$89.99,30%,$62.99,40,00234,StrideCo,2023-09-01,Yes,4.8,Vietnam,Exact duplicate?
+SKU-1015-BLK-XL,Ceramic Coffee Mug,Home,320g,$12.99,0%,$12.99,300,00312,HydroLife,2023-03-10,Yes,4.1,USA,
+SKU-1016-WHT-L,Ceramic Coffee Mug,home,0.32kg,$12.99,0%,$12.99,-15,00312,HydroLife,2023-03-10,Yes,4.1,USA,Negative stock?
+SKU-1017-GRY-M,Bluetooth Speaker Mini,Electronics,210g,$39.99,20%,$31.99,110,00450,SoundTech,2023-06-25,Yes,4.5,China,
+SKU-1018-BLK-M,Bluetooth Speaker Mini,electronics,0.21kg,$39.99,20%,$27.99,110,00450,SoundTech,2023-06,Yes,4.5,China,Price mismatch?
+SKU-1019-RED-S,Kids Rain Jacket,Apparel,300g,$29.99,0%,$29.99,65,00234,LittleWear,2023-02-14,Yes,4.0,USA,
+SKU-1020-YEL-M,Kids Rain Jacket,apparel,0.3kg,$29.99,10%,$26.99,65,00234,LittleWear,2023-02,Yes,4.0,USA,
+SKU-1021-BLK-L,Adjustable Dumbbell Set,Fitness,15000g,$149.99,10%,$134.99,25,00312,FlexFit,2023-01-30,Yes,4.6,USA,
+SKU-1022-GRY-L,Adjustable Dumbbell Set,fitness,15kg,$149.99,10%,$134.99,25,00312,FlexFit,2023-01-30,Yes,4.6,USA,Exact duplicate?
+SKU-1023-BLU-M,Desk Organizer Set,Home,550g,$22.50,0%,$22.50,180,00312,OfficeEase,2023-05,Yes,3.9,USA,
+SKU-1024-BLK-M,Desk Organizer Set,home,0.55kg,$22.50,5%,$21.38,180,00312,OfficeEase,2023-05-05,Yes,3.9,USA,
+SKU-1025-RED-XL,Insulated Lunch Bag,Home,250g,$18.99,0%,$18.99,95,00312,HydroLife,2023-07-20,Yes,4.2,USA,
+SKU-1026-BLU-L,Insulated Lunch Bag,home,0.25kg,$18.99,15%,$16.14,95,00312,HydroLife,2023-07,Yes,4.2,USA,
+SKU-1027-BLK-M,Mens Cotton Socks 3-Pack,Apparel,120g,$14.99,0%,$14.99,250,00234,Fabrico,2023-08-01,Yes,4.3,USA,
+SKU-1028-GRY-M,Men's Cotton Socks 3-Pack,apparel,0.12kg,$14.99,0%,$14.99,250,00234,Fabrico,2023-08-01,Yes,4.3,USA,Name variant
+SKU-1029-BLK-S,Wireless Mouse,Electronics,95g,$25.99,0%,$25.99,140,00450,SoundTech,2023-04-12,No,4.4,China,
+SKU-1030-WHT-S,Wireless Mouse,electronics,0.095kg,$25.99,10%,$23.39,140,00450,SoundTech,2023-04,No,4.4,China,
+SKU-1031-BLK-L,Camping Tent 2-Person,Outdoor,3200g,$119.99,20%,$95.99,20,00312,TrailGear,2023-06-30,Yes,4.7,USA,
+SKU-1032-GRN-L,Camping Tent 2-Person,outdoor,3.2kg,$119.99,20%,$95.99,20,00312,TrailGear,2023-06-30,Yes,4.7,USA,Exact duplicate?
+SKU-1033-BLU-M,Electric Kettle,Home,900g,$32.99,0%,$32.99,75,00312,HomeStyle,2023-03-22,Yes,4.5,USA,
+SKU-1034-BLK-M,Electric Kettle,home,0.9kg,$32.99,5%,$31.34,75,00312,HomeStyle,2023-03,Yes,4.5,USA,
+SKU-1035-RED-M,Baseball Cap Classic,Apparel,80g,$16.99,0%,$16.99,160,00234,CapCo,2023-09-05,Yes,4.1,USA,
+SKU-1036-BLK-M,Basball Cap Classic,apparel,0.08kg,$16.99,0%,$16.99,160,00234,CapCo,2023-09-05,Yes,4.1,USA,Name typo?
+SKU-1037-SLV-L,Travel Backpack 40L,Outdoor,1100g,$64.99,15%,$55.24,55,00312,TrailGear,2023-02-28,Yes,4.6,USA,
+SKU-1038-BLK-L,Travel Backpack 40L,outdoor,1.1kg,$64.99,15%,$55.24,55,00312,TrailGear,2023-02,Yes,4.6,USA,
