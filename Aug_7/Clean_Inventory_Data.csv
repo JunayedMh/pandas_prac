@@ -15,7 +15,7 @@ ProductID,Color,Size,ProductName,Category,Weight,ListPrice,DiscountPercent,Price
 1013,BLU,L,running shoes pro,Footwear,0.85 kg,$89.99,30%,$62.99,40.0,234,StrideCo,2023-09-01,Yes,4.8,Vietnam,
 1014,RED,M,running shoes pro,Footwear,0.85 kg,$89.99,30%,$62.99,40.0,234,StrideCo,2023-09-01,Yes,4.8,Vietnam,
 1015,BLK,XL,ceramic coffee mug,Home,0.32 kg,$12.99,0%,$12.99,300.0,312,HydroLife,2023-03-10,Yes,4.1,USA,
-1016,WHT,L,ceramic coffee mug,Home,0.32 kg,$12.99,0%,$12.99,,312,HydroLife,2023-03-10,Yes,4.1,USA,Negative stock?
+1016,WHT,L,ceramic coffee mug,Home,0.32 kg,$12.99,0%,$12.99,,312,HydroLife,2023-03-10,No,4.1,USA,Negative stock?
 1017,GRY,M,bluetooth speaker mini,Electronics,0.21 kg,$39.99,20%,$31.99,110.0,450,SoundTech,2023-06-25,Yes,4.5,China,
 1018,BLK,M,bluetooth speaker mini,Electronics,0.21 kg,$39.99,20%,$31.99,110.0,450,SoundTech,2023-06-01,Yes,4.5,China,Price mismatch?
 1019,RED,S,kids rain jacket,Apparel,0.3 kg,$29.99,0%,$29.99,65.0,234,LittleWear,2023-02-14,Yes,4.0,USA,
