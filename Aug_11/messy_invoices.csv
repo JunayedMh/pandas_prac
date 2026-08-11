@@ -1,0 +1,47 @@
+InvoiceID,CustomerName,Email,State,Subtotal,TaxRate,TaxAmount,ShippingFee,TotalAmount,PaymentMethod,OrderDate,ShipDate,Carrier,TrackingNumber,Status,Notes
+INV2001,Owen Marsh,owen.marsh@gmail.com,NC,191.9,0.08,15.35,12.99,220.24,credit_card,2023-08-17,2023-08-21,FedEx,VM614158653US,delivered,
+INV2002,Bianca Ruiz,bianca.ruiz@gmail.com,NY,268.49,0.08,21.48,4.99,294.96,Credit Card,2023-08-01,2023-08-05,UPS,AX573512200US,Processing,
+INV2003,Femi Adeyemi,femi.adeyemi@gmail.com,XX,174.58,0.08,13.97,0.0,188.55,Debit Card,2023-08-09,2023-08-11,FedEx,NA511200629US,Delivered,
+INV2004,Katarina Novak,katarina.novak@gmail.com,NJ,198.6,0.0875,17.38,12.99,228.97,paypal,2023-08-03,2023-08-07,FedEx,sb016677148us,Shipped,
+INV2005,Diego Salas,diego.salas@gmail.com,OH,279.19,0.05,18.96,12.99,306.14,Cash,2023-08-07,2023-08-08,DHL,CL229838238US,SHIPPED,Tax looks off?
+INV2006,Priya Kapoor,priya.kapoor@gmail.com,NC,58.13,0.05,2.91,4.99,66.03,Debit Card,2023-08-09,2023-08-09,USPS,VK026036158US,Shipped,
+INV2007,Hugo Bernard,hugo.bernard@gmail.com,TX,349.28,0.05,17.46,,,credit_card,2023-08-08,2023-08-12,FedEx,DR563400152US,delivered,Shipping not yet calculated
+INV2008,Aisha Bello,aisha.bello@gmail.com,ca,117.65,0.08,9.41,12.99,140.05,paypal,2023-08-17,2023-08-18,UPS,DM660297042US,Delivered,
+INV2009,Marcus Lindqvist,marcus.lindqvist@gmail.com,AZ,86.98,0.0625,5.44,4.99,97.41,Cash,2023-08-12,2023-08-13,USPS,RS510097906US,delivered,   
+INV2010,Tomas Bruun,tomas.bruun@gmail.com,PA,45.56,0.0625,2.85,7.99,66.4,Cash,2023-08-03,2023-08-03,USPS,TX777936984US,Delivered,Total seems high
+INV2011,Layla Haddad,layla.haddad@gmail.com,NY,348.12,0.08,27.85,0.0,375.97,PayPal,2023-08-13,2023-08-16,UPS,QB698737548US,Delivered,
+INV2012,Connor Doyle,connor.doyle@gmail.com,TX,217.1,0.08,17.37,0.0,234.47,Cash,2023-08-20,2023-08-20,UPS,72540972,Processing,
+INV2013,Yara Mansour,yara.mansour@gmail.com,MA,19.99,0.0875,1.75,4.99,26.73,Cash,2023-08-08,2023-08-10,USPS,EL898353148US,Delivered,Off by a cent?
+INV2014,Stefan Petrov,stefan.petrov@gmail.com,AZ,290.26,0.0625,18.14,4.99,313.39,CC,2023-08-15,2023-08-18,FedEx,VK567863826US,Processing,
+INV2015,Camille Girard,camille.girard@gmail.com,WA,236.82,0.0625,14.8,0.0,251.62,Cash,2023-08-05,2023-08-08,FedEx,AV210646689US,Shipped,
+INV2016,Nina Volkova,nina.volkova@gmail.com,California,95.75,0.07,6.7,7.99,110.44,PayPal,2023-08-01,2023-08-04,UPS,EG365673790US,delivered,
+INV2017,Samuel Okoro,samuel.okoro@gmail.com,WA,69.37,0.07,4.86,4.99,79.22,PayPal,2023-08-01,2023-08-04,USPS,MR278672899US,SHIPPED,
+INV2018,Ines Duarte,ines.duarte@gmail.com,MA,391.16,0.0625,24.45,7.99,423.6,PayPal,2023-08-01,2023-08-03,UPS,AJ429284056US,Shipped,
+INV2019,Malik Freeman,malik.freeman@gmail.com,MA,198.81,0.08,15.9,12.99,227.7,paypal,2023-08-16,2023-08-20,UPS,UL585159269US,SHIPPED,
+INV2020,Greta Hoffmann,greta.hoffmann@gmail.com,NY,99.13,0.05,4.96,7.99,112.08,Cash,2023-08-16,2023-08-17,UPS,EZ12345US,SHIPPED,
+INV2021,Junho Lee,junho.lee@gmail.com,MI,194.4,0.07,13.61,7.99,216.0,credit_card,2023-08-16,2023-08-19,USPS,LV943169170US,Shipped,
+INV2022,Wanjiku Njoroge,,VA,79.1,0.0,0.0,7.99,87.09,PayPal,2023-08-12,2023-08-13,DHL,CT152154345US,Shipped,
+INV2023,Otto Weber,otto.weber@gmail.com,OH,224.51,0.0875,19.64,4.99,249.14,PayPal,2023-08-07,2023-08-11,FedEx,FT893392981US,Shipped,
+INV2024,Lucia Marino,lucia.marino@gmail.com,NJ,70.37,0.0,0.0,7.99,78.36,Debit Card,2023-08-04,2023-08-07,DHL,PS267053837US,Processing,
+INV2025,Anders Berg,anders.berg@gmail.com,CA,211.06,0.0875,18.47,4.99,234.52,Credit Card,2023-08-03,2023-08-01,UPS,AP551128990US,Delivered,Ship before order?
+INV2026,Sana Malik,sana.malik@gmail.com,AZ,71.09,0.0875,6.22,12.99,90.3,Cash,2023-08-04,2023-08-06,DHL,LJ236024339US,SHIPPED,
+INV2027,Diego Fernandez,diego.fernandez@gmail.com,VA,82.73,0.08,6.62,0.0,89.35,PayPal,2023-08-03,2023-08-06,FedEx,NZ829778488US,Processing,
+INV2028,Yuki Tanaka,yuki.tanaka@gmail.com,MI,311.56,0.05,15.58,12.99,340.13,Debit Card,2023-08-06,2023-08-06,USPS,HC899029224US,Shipped,
+INV2029,Chidi Okafor,chidi.okafor@gmail.com,ON,222.57,0.07,15.58,12.99,251.14,Debit Card,2023-08-07,2023-08-07,DHL,ZA672401302US,Processing,
+INV2030,Sara Kim,sara.kim@gmail.com,OH,229.02,0.08,18.32,12.99,260.33,paypal,2023-08-19,2023-08-19,DHL,VB570914146US,Delivered,
+INV2031,Priya Kapoor,priya.kapoor@gmail.com,NC,58.13,0.05,2.91,4.99,66.03,Debit Card,2023-08-09,2023-08-09,USPS,VK026036158US,Shipped,
+INV2032,Nadia Osei,nadia.osei@gmail.com,FL,40.06,0.0625,2.5,12.99,55.55,Credit Card,2023-08-19,2023-08-21,FedEx,LM925974986US,Delivered,
+INV2033,Grace Owusu,grace.owusu@gmail.com,AZ,39.15,0.07,2.74,12.99,54.88,CC,2023-08-07,2023-08-07,FedEx,CL642547599US,Shipped,
+INV2034,Ravi Patel,ravi.patel@gmail.com,CA,110.6,0.0,0.0,7.99,118.59,Debit Card,2023-08-17,,USPS,,Processing,Not shipped yet
+INV2035,Elena Rossi,elena.rossi@gmail.com,TX,258.8,0.0,0.0,7.99,266.79,PayPal,2023-08-14,2023-08-14,UPS,CN006563423US,Shipped,
+INV2036,Layla Haddad,layla.haddad@gmail.com,NY,348.12,0.08,27.85,0.0,375.97,PAYPAL,2023-08-13,2023-08-16,UPS,QB698737548US,Delivered,Possible duplicate
+INV2037,Aiko Sato,aiko.sato@gmail.com,OH,56.87,0.0625,3.55,0.0,60.42,PayPal,2023-08-03,2023-08-06,DHL,VM803966473US,Shipped,
+INV2038,Ben Turner,ben.turner@gmail.com,VA,103.13,0.0875,9.02,7.99,120.14,paypal,2023-08-04,2023-08-06,DHL,PY994833398US,Shipped,
+INV2039,Ravi Chandran,ravi.chandran@gmail.com,VA,52.03,0.0625,3.25,0.0,55.28,Cash,2023-08-13,2023-08-17,FedEx,TJ315104882US,Delivered,
+INV2040,Nina Petrova,nina.petrova@gmail.com,FL,226.78,0.08,18.14,7.99,252.91,Credit Card,2023-08-21,2023-08-24,USPS,UC078061762US,Shipped,
+INV2041,Marcus Lee,marcus.lee@gmail.com,CA,205.82,0.08,16.47,7.99,230.28,CC,2023-08-15,2023-08-18,USPS,VH148060793US,Delivered,
+INV2042,Jonas Berg,jonas.berg@gmail.com,OH,326.24,0.0,0.0,12.99,339.23,PayPal,2023-08-21,2023-08-21,USPS,TV441793124US,Processing,
+INV2043,Sofia Reyes,sofia.reyes@gmail.com,TX,124.14,0.0,0.0,12.99,137.13,paypal,2023-08-04,2023-08-06,FedEx,UE045901122US,delivered,
+INV2044,Aiden Clarke,aiden.clarke@gmail.com,PA,246.02,0.05,12.3,12.99,271.31,credit_card,2023-08-09,2023-08-12,USPS,RY584496708US,delivered,
+INV2045,Hana Kobayashi,hana.kobayashi@gmail.com,OH,38.89,0.05,1.94,12.99,53.82,Debit Card,2023-08-17,2023-08-19,UPS,RF043776113US,Processing,
+INV2046,Owen Marsh,owen.marsh@gmail.com,WA,365.08,0.08,29.21,4.99,399.28,PayPal,2023-08-20,2023-08-22,UPS,DU088802704US,delivered,
