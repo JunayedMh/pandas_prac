@@ -1,0 +1,47 @@
+CampaignID,CampaignName,Channel,Country,StartDate,EndDate,Impressions,Clicks,CTR,Spend,Revenue,ROI,LandingPageURL,Device,Status,Notes,NeedsReview,ROI_Fixed,CTR_Calc
+CMP3001,Fall Sale Blitz,Email,France,2023-09-01 00:00:00+00:00,2023-09-06 00:00:00+00:00,11310,444,3.93,1283.19,1904.77,0.48,https://example.com/fall-sale,Mobile,Paused,,,0.48,3.93
+CMP3002,Back to School,Social,Spain,2023-09-02 08:00:00+00:00,2023-09-07 08:00:00+00:00,12531,568,4.53,746.37,381.49,-0.49,https://shop.example.com/promo,Desktop,Paused,,,-0.49,4.53
+CMP3003,Q3 Retargeting,Email,Spain,2023-09-03 16:00:00+00:00,2023-09-08 16:00:00+00:00,49738,1306,2.63,736.45,477.35,-0.35,htp://example.com/typo,Tablet,Active,,,-0.35,2.63
+CMP3004,New Customer Push,Email,Australia,2023-09-04 07:00:00+00:00,2023-09-09 07:00:00+00:00,0,0,,1643.44,4813.15,1.93,https://example.com/vip,Desktop,Paused,No impressions recorded,,1.93,
+CMP3005,Holiday Teaser,Social,Germany,2023-09-04 23:00:00+00:00,2023-09-09 23:00:00+00:00,49063,3298,6.72,418.39,1568.04,2.75,https://example.com/fall-sale,Tablet,Completed,,,2.75,6.72
+CMP3006,Loyalty Rewards,Email,France,2023-09-06 13:00:00+00:00,2023-09-11 13:00:00+00:00,26802,1177,4.39,601.38,378.86,-0.37,https://shop.example.com/promo,Desktop,Paused,,,-0.37,4.39
+CMP3007,Flash Discount,Email,UK,2023-09-07 08:00:00+00:00,2023-09-12 08:00:00+00:00,14168,809,5.71,2418.6,,1.8,https://example.com/launch,Desktop,Paused,,,,5.71
+CMP3008,Product Launch,Paid Search,Spain,2023-09-08 00:00:00+00:00,2023-09-13 00:00:00+00:00,31716,1558,4.91,1194.63,2024.07,0.69,https://example.com/vip,Mobile,Completed,,,0.69,4.91
+CMP3009,Winter Preview,Social,USA,2023-09-09 07:00:00+00:00,2023-09-14 07:00:00+00:00,30077,1356,4.51,987.96,2169.15,1.2,https://example.com/fall-sale,Desktop,Paused,,,1.2,4.51
+CMP3010,Email Reactivation,Paid Search,France,2023-09-09 23:00:00+00:00,2023-09-14 23:00:00+00:00,47560,2859,6.01,0.0,1503.25,inf,https://shop.example.com/promo,Tablet,Paused,Spend not logged,,inf,6.01
+CMP3011,App Install Drive,Paid Search,Australia,2023-09-11 13:00:00+00:00,2023-09-16 13:00:00+00:00,21382,1046,4.89,1886.74,2136.49,0.13,www.example.com/no-protocol,Mobile,Completed,,,0.13,4.89
+CMP3012,Brand Awareness,Email,Germany,2023-09-12 08:00:00+00:00,2023-09-17 08:00:00+00:00,39640,2976,7.51,775.01,845.09,0.09,https://example.com/vip,Mobile,Completed,,,0.09,7.51
+CMP3013,Cart Abandon Recovery,Paid Search,Spain,2023-09-13 16:00:00+00:00,2023-09-18 16:00:00+00:00,10978,634,5.78,2043.91,7450.95,2.65,https://example.com/fall-sale,Desktop,Paused,,,2.65,5.78
+CMP3014,Referral Boost,Paid Search,France,2023-09-14 07:00:00+00:00,2023-09-19 07:00:00+00:00,1434,102,7.11,1498.0,2718.41,0.81,https://shop.example.com/promo,Desktop,Paused,,,0.81,7.11
+CMP3015,VIP Early Access,Paid Search,Canada,2023-09-15 00:00:00+00:00,2023-09-20 00:00:00+00:00,5043,205,4.07,1252.02,,2.09,https://example.com/launch,Desktop,Completed,,,,4.07
+CMP3016,Fall Sale Blitz,Paid Search,Australia,2023-09-01 13:00:00+00:00,2023-09-06 13:00:00+00:00,43650,1322,3.03,1287.68,1412.85,0.1,https://example.com/vip,Desktop,Paused,,,0.1,3.03
+CMP3017,Back to School,Email,Italy,2023-09-02 08:00:00+00:00,2023-09-07 08:00:00+00:00,49379,3011,6.1,195.74,193.5,-0.01,https://example.com/fall-sale,Desktop,Paused,,,-0.01,6.1
+CMP3018,Q3 Retargeting,Social,Italy,2023-09-03 16:00:00+00:00,2023-09-08 16:00:00+00:00,24468,1606,6.56,2650.29,6903.33,1.6,https://shop.example.com/promo,Tablet,Active,,,1.6,6.56
+CMP3019,New Customer Push,Email,USA,2023-09-04 07:00:00+00:00,2023-09-09 07:00:00+00:00,20683,407,1.97,1785.82,1763.65,-0.01,https://example.com/launch,Mobile,Paused,,,-0.01,1.97
+CMP3020,Holiday Teaser,Email,Spain,2023-09-04 23:00:00+00:00,2023-09-09 23:00:00+00:00,47403,552,1.16,1801.38,4960.11,1.75,https://example .com/space,Mobile,Active,,,1.75,1.16
+CMP3021,Loyalty Rewards,Paid Search,Spain,2023-09-06 13:00:00+00:00,2023-09-11 13:00:00+00:00,49759,3836,7.71,2721.54,2632.77,-0.03,https://example.com/fall-sale,,Paused,,,-0.03,7.71
+CMP3022,Flash Discount,Paid Search,Canada,2023-09-07 00:00:00+00:00,2023-09-12 00:00:00+00:00,2159,118,5.47,2369.13,1780.67,-0.25,https://shop.example.com/promo,Desktop,Completed,,,-0.25,5.47
+CMP3023,Product Launch,Display,Germany,2023-09-08 16:00:00+00:00,2023-09-13 16:00:00+00:00,35801,2718,7.59,1219.03,,2.61,https://example.com/launch,Desktop,Paused,,,,7.59
+CMP3024,Winter Preview,Display,USA,2023-09-09 07:00:00+00:00,2023-09-14 07:00:00+00:00,25260,609,2.41,2245.39,7072.3,2.15,https://example.com/vip,Desktop,Active,,,2.15,2.41
+CMP3025,Email Reactivation,Email,France,2023-09-10 08:00:00+00:00,2023-09-01 08:00:00+00:00,30900,2178,7.05,1223.91,3040.56,1.48,https://example.com/fall-sale,Mobile,Paused,End before start?,True,1.48,7.05
+CMP3026,App Install Drive,Email,Canada,2023-09-11 13:00:00+00:00,2023-09-16 13:00:00+00:00,21053,1309,6.22,771.9,807.88,0.05,ftp://example.com/wrong-scheme,Tablet,Paused,,,0.05,6.22
+CMP3027,Brand Awareness,Display,Australia,2023-09-12 08:00:00+00:00,2023-09-17 08:00:00+00:00,32616,2491,7.64,340.76,887.38,1.6,https://example.com/launch,Tablet,Completed,,,1.6,7.64
+CMP3028,Cart Abandon Recovery,Paid Search,Australia,2023-09-13 16:00:00+00:00,2023-09-18 16:00:00+00:00,19611,1156,5.89,1601.07,3942.42,1.46,https://example.com/vip,Desktop,Completed,,,1.46,5.89
+CMP3029,Referral Boost,Paid Search,UK,2023-09-14 00:00:00+00:00,2023-09-19 00:00:00+00:00,4780,154,3.22,2979.99,2612.32,-0.12,https://example.com/fall-sale,Mobile,Paused,,,-0.12,3.22
+CMP3030,VIP Early Access,Social,Spain,2023-09-14 23:00:00+00:00,2023-09-19 23:00:00+00:00,41223,3145,7.63,2055.69,6104.94,1.97,https://shop.example.com/promo,Mobile,Active,,,1.97,7.63
+CMP3031,Fall Sale Blitz,Social,Spain,2023-09-01 13:00:00+00:00,2023-09-06 13:00:00+00:00,15277,179,1.17,2001.43,1295.21,-0.35,https://example.com/launch,Mobile,Active,,,-0.35,1.17
+CMP3032,Back to School,Email,UK,2023-09-02 08:00:00+00:00,2023-09-07 08:00:00+00:00,15995,606,3.79,1016.0,1318.15,0.3,https://example.com/vip,Desktop,Active,,,0.3,3.79
+CMP3033,Q3 Retargeting,Email,Italy,2023-09-03 16:00:00+00:00,2023-09-08 16:00:00+00:00,11827,525,4.44,2165.66,7832.55,2.62,https://example.com/fall-sale,Tablet,Paused,,,2.62,4.44
+CMP3034,New Customer Push,Social,,2023-09-04 07:00:00+00:00,2023-09-09 07:00:00+00:00,46311,3122,6.74,823.47,1798.62,1.18,https://shop.example.com/promo,Mobile,Paused,,,1.18,6.74
+CMP3035,Holiday Teaser,Paid Search,Germany,2023-09-04 23:00:00+00:00,2023-09-09 23:00:00+00:00,25524,1728,6.77,2892.93,11462.46,2.96,https://example.com/launch,Mobile,Paused,,,2.96,6.77
+CMP3036,Loyalty Rewards,Paid Search,UK,2023-09-06 00:00:00+00:00,2023-09-11 00:00:00+00:00,20929,1492,7.13,2163.43,1768.48,-0.18,https://example.com/vip,Tablet,Completed,,,-0.18,7.13
+CMP3037,Flash Discount,Paid Search,Germany,2023-09-07 08:00:00+00:00,2023-09-12 08:00:00+00:00,41130,3127,7.6,2239.95,4744.71,1.12,https://example.com/fall-sale,Mobile,Paused,,,1.12,7.6
+CMP3038,Product Launch,Social,UK,2023-09-08 16:00:00+00:00,2023-09-13 16:00:00+00:00,44977,1505,3.35,1942.65,5605.92,1.89,https://shop.example.com/promo,Desktop,Completed,,,1.89,3.35
+CMP3039,Winter Preview,Email,France,2023-09-09 07:00:00+00:00,2023-09-14 07:00:00+00:00,34229,951,2.78,2543.85,2637.78,0.04,https://example.com/launch,Desktop,Paused,,,0.04,2.78
+CMP3040,Email Reactivation,Social,Spain,2023-09-09 23:00:00+00:00,2023-09-14 23:00:00+00:00,45599,1341,2.94,1168.04,4429.86,2.79,https://example.com/vip,Mobile,Active,,,2.79,2.94
+CMP3042,Brand Awareness,Email,Australia,2023-09-12 08:00:00+00:00,2023-09-17 08:00:00+00:00,14602,181,1.24,2440.78,9205.71,2.77,https://shop.example.com/promo,Desktop,Active,,,2.77,1.24
+CMP3043,Cart Abandon Recovery,Social,France,2023-09-13 00:00:00+00:00,2023-09-18 00:00:00+00:00,33346,1687,5.06,1224.55,2503.38,1.04,https://example.com/launch,Desktop,Paused,,,1.04,5.06
+CMP3044,Referral Boost,Paid Search,Australia,2023-09-14 07:00:00+00:00,2023-09-19 07:00:00+00:00,10191,169,1.66,961.44,2008.8,1.09,https://example.com/vip,Desktop,Paused,,,1.09,1.66
+CMP3046,Fall Sale Blitz,Email,Italy,2023-09-01 13:00:00+00:00,2023-09-06 13:00:00+00:00,26909,1931,7.18,770.75,1936.21,1.51,https://shop.example.com/promo,Desktop,Paused,,,1.51,7.18
+CMP3047,Back to School,Email,France,2023-09-02 08:00:00+00:00,2023-09-07 08:00:00+00:00,5284,82,1.55,2704.05,8421.08,2.11,https://example.com/launch,Desktop,Active,,,2.11,1.55
+CMP3048,Q3 Retargeting,Social,Australia,2023-09-03 16:00:00+00:00,2023-09-08 16:00:00+00:00,33094,2219,6.71,1839.23,4912.56,1.67,https://example.com/vip,Desktop,Completed,,,1.67,6.71
