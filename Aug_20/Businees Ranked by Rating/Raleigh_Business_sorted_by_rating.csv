@@ -1,0 +1,11 @@
+BusinessID,BusinessName,Category,City,Email,Website,YearsInBusiness,Rating,NumEmployees,SignupDate,Newsletter,Notes,NeedsReview
+B016,Fern & Co Fitness,Salon,Raleigh,contact@fernandco.com,https://www.fernandco.com,9.0,4.8,29.0,2023-09-09,No,,
+B029,Anchor Retail,Retail,Raleigh,contact@anchor.com,https://www.anchor.com,7.0,4.7,27.0,2023-12-26,Yes,,
+B033,Crestline Fitness,Fitness,Raleigh,contact@crestline.com,https://www.crestline.com,20.0,4.7,32.0,2023-11-12,No,,
+B006,Cedar Point Restaurant,Restaurant,Raleigh,mike smith@cedarpoint.com,https://www.cedarpoint.com,19.0,4.4,25.0,2023-02-18,Yes,,True
+B009,Iron Gate Restaurant,Restaurant,Raleigh,contact@irongate.com,https://www.irongate.com,10.0,4.1,23.0,2023-12-15,No,,
+B008,Riverbend Fitness,Fitness,Raleigh,contact@riverbend.com,https://www.riverbend.com,15.0,3.9,17.0,2023-03-23,Yes,,
+B030,Birchwood Retail,Consulting,Raleigh,contact@birchwood.com,https://www.birchwood.com,16.0,3.8,3.0,2023-01-26,No,,
+B022,Granite Salon,Salon,Raleigh,contact@granite.com,https://www.granite.com,2.0,3.4,38.0,2023-03-18,Yes,,
+B004,Golden Fork Consulting,Restaurant,Raleigh,contact@goldenfork.com,https://www.goldenfork.com,13.0,3.3,16.0,2023-01-18,Yes,,
+B023,Meadow Salon,Fitness,Raleigh,contact@meadow.com,https://www.meadow.com,1.0,3.3,15.0,2023-10-13,Yes,,
