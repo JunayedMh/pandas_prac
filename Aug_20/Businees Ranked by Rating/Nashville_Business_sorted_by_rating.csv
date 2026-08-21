@@ -1,0 +1,6 @@
+BusinessID,BusinessName,Category,City,Email,Website,YearsInBusiness,Rating,NumEmployees,SignupDate,Newsletter,Notes,NeedsReview
+B012,Harbor Consulting,Consulting,Nashville,contact@bizsite,https://www.harbor.com,19.0,4.6,6.0,2023-02-09,No,,
+B005,Maple Salon,Salon,Nashville,contact@maple.com,https://www.maple.com,,4.2,38.0,2023-05-18,Yes,,
+B026,Larkspur Salon,Salon,Nashville,contact@larkspur.com,https://www.larkspur.com,6.0,4.1,15.0,2023-09-12,Yes,,
+B034,Windmere Restaurant,Restaurant,Nashville,contact@windmere.com,https://www.windmere.com,7.0,4.1,13.0,2023-07-26,No,,
+B025,Driftwood Fitness,Fitness,Nashville,contact@driftwood.com,https://www.driftwood.com,16.0,3.8,11.0,2023-02-24,No,,
