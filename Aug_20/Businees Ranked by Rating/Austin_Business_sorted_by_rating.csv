@@ -1,0 +1,11 @@
+BusinessID,BusinessName,Category,City,Email,Website,YearsInBusiness,Rating,NumEmployees,SignupDate,Newsletter,Notes,NeedsReview
+B011,Northside Fitness,Fitness,Austin,contact@northside.com,https://www.northside.com,3.0,4.6,38.0,2023-06-11,No,,
+B013,Willow Restaurant,Restaurant,Austin,contact@willow.com,https://www.willow.com,10.0,4.4,,2023-05-23,No,,
+B010,Clover Consulting,Retail,Austin,contact@clover.com,https://www.clover.com,4.0,4.1,12.0,2023-06-05,No,,
+B003,Sunset Retail,Retail,Austin,contact@sunset.com,https://www.sunset.com,18.0,4.0,38.0,2023-02-08,Yes,,
+B014,Copper Hill Salon,Salon,Austin,contact@copperhill.com,https://www.copperhill.com,15.0,3.8,9.0,2023-08-02,Yes,,
+B027,Cascade Consulting,Consulting,Austin,contact@cascade.com,https://www.cascade.com,17.0,3.7,7.0,2023-12-28,No,,
+B002,Blue Oak Consulting,Consulting,Austin,contact@blueoak.com,https://www.blueoak.com,17.0,3.6,7.0,2023-07-14,Yes,,
+B032,Ember Salon,Salon,Austin,,https://www.ember.com,8.0,3.4,32.0,2023-04-11,Yes,,True
+B021,Foxglove Fitness,Fitness,Austin,contact@foxglove.com,,7.0,3.3,15.0,2023-08-06,Yes,,
+B007,Silver Line Consulting,Consulting,Austin,contact@silverline.com,https://www.silverline.com,20.0,,36.0,2023-07-25,No,,
