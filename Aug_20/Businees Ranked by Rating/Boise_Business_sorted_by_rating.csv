@@ -1,0 +1,4 @@
+BusinessID,BusinessName,Category,City,Email,Website,YearsInBusiness,Rating,NumEmployees,SignupDate,Newsletter,Notes,NeedsReview
+B017,Amber Salon,Salon,Boise,contact@amber.com,https://www.amber.com,13.0,4.9,11.0,2023-02-06,Yes,,
+B020,Lantern Fitness,Fitness,Boise,contact@lantern.com,https://www.lantern.com,18.0,3.9,27.0,2023-07-04,Yes,,
+B018,Pine Grove Retail,Retail,Boise,sara.k@,https://www.pinegrove.com,8.0,3.2,39.0,2023-03-09,No,Review for email,True
