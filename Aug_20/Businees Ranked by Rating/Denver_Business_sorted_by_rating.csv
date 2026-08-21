@@ -1,0 +1,4 @@
+BusinessID,BusinessName,Category,City,Email,Website,YearsInBusiness,Rating,NumEmployees,SignupDate,Newsletter,Notes,NeedsReview
+B001,Bright Leaf Salon,Salon,Denver,contact@brightleaf.com,https://www.brightleaf.com,13.0,4.4,6.0,2023-09-04,No,,
+B019,Stonewell Restaurant,Restaurant,Denver,contact@stonewell.com,https://www.stonewell.com,5.0,4.2,38.0,2023-06-05,Yes,,
+B015,Bramble Salon,Salon,Denver,contact@bramble.com,https://bramble.com,8.0,3.9,33.0,2023-02-06,No,,
