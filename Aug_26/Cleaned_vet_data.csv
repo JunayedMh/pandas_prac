@@ -1,0 +1,42 @@
+PatientID,PetName,Species,Breed,OwnerName,OwnerPhone,VisitDate,AgeYears,WeightKg,Vaccinated,VisitReason,Cost,Notes
+V001,Buddy,Dog,Labrador,Sarah Kim,415-555-0142,2024-03-11,4.0,28.5,Yes,Checkup,65.0,
+V002,Max,Dog,Poodle,James Ortiz,415-555-0198,2024-03-12,7.0,12.3,Yes,Vaccination,45.0,
+V003,Bella,Cat,Siamese,Maria Chen,628-555-0110,2024-03-12,2.0,4.1,No,Grooming,40.0,
+V004,Charlie,Cat,Domestic Shorthair,Tom Reyes,628-555-0177,2024-03-12,1.0,3.8,No,Vaccination,45.0,
+V005,Daisy,Rabbit,Holland Lop,Priya Nair,510-555-0199,2024-03-13,,1.9,Yes,Checkup,55.0,Owner unsure of age
+V006,Rocky,Dog,Bulldog,Owen Marsh,510-555-0134,2024-03-13,6.0,60.0,No,Surgery,1200.0,Weight likely a data entry error
+V007,Luna,Cat,Maine Coon,Elena Voss,415-555-0177,2024-03-14,3.0,5.6,Yes,Checkup,60.0,
+V008,Milo,Dog,Beagle,Hank Renner,415-555-01O0,2024-03-14,5.0,10.1,Yes,Grooming,38.0,
+V009,Coco,Bird,Parakeet,Dana Marsh,628-555-0155,2024-03-15,1.0,0.03,No,Checkup,30.0,
+V010,Simba,Cat,Bengal,Rico Callahan,,2024-03-15,4.0,4.9,Yes,Vaccination,45.0,Update Phone no.
+V012,Zoe,Dog,Golden Retriever,Faye Kowalski,510-555-0112,2024-03-15,8.0,31.2,Yes,Surgery,1150.0,
+V013,Oscar,Rabbit,Netherland Dwarf,Bruno Farrell,510-555-0126,2024-03-16,2.0,1.5,No,Checkup,15.0,Cost far below Checkup average; verify with front desk.
+V014,Chloe,Dog,Poodle,Alina Amaro,628-555-0122,2024-03-16,3.0,9.4,Yes,Grooming,42.0,
+V015,Leo,Cat,Persian,Chet Vance,628-555-0170,2024-03-16,5.0,4.5,No,Checkup,60.0,
+V016,Ruby,Dog,Terrier Mix,Ines Petrov,415-555-0130,2024-03-17,,22.0,Yes,Checkup,65.0,"Age looks off, verify with owner"
+V017,Bear,Dog,Mastiff,Roy Duarte,510-555-0161,2024-03-17,6.0,60.0,Yes,Checkup,65.0,Scale malfunction noted by tech
+V018,Nala,Cat,Ragdoll,Wendy Falk,628-555-0131,2024-03-18,2.0,4.2,No,Vaccination,45.0,
+V019,Duke,Dog,German Shepherd,Damon Beck,628-555-0188,2024-03-18,7.0,34.6,Yes,Surgery,1450.0,
+V020,Gizmo,Bird,Cockatiel,Kira Sato,415-555-0177,2024-03-19,,0.09,No,Checkup,30.0,
+V021,Peanut,Rabbit,Lionhead,Nate Kessler,415-555-0190,2024-03-19,1.0,1.7,Yes,Vaccination,40.0,
+V022,Shadow,Cat,Tabby,Sonia Hollis,510-555-0173,2024-03-19,4.0,4.0,No,Checkup,60.0,
+V023,Toby,Dog,Corgi,Gus Larsen,628-555-0193,2024-03-20,3.0,11.8,Yes,Grooming,38.0,
+V024,Lily,Cat,Domestic Longhair,Talia Fontaine,415-555-0103,2024-03-20,6.0,5.1,Yes,Checkup,60.0,
+V025,Jack,Dog,Boxer,Rex Adams,510-555-0147,2024-03-21,5.0,27.9,No,Vaccination,45.0,
+V026,Sadie,Rabbit,Rex,Ivy Cruz,628-555-0185,2024-03-21,2.0,2.1,No,Checkup,50.0,
+V027,Cooper,Dog,Husky,Leon Rossi,415-555-01O0,2024-03-21,4.0,23.4,Yes,Surgery,1300.0,
+V028,Willow,Cat,Tabby,Mara Weber,510-555-0152,2024-03-22,3.0,4.4,Yes,Grooming,40.0,
+V029,Rex,Dog,Rottweiler,Otto Chen,628-555-0105,2024-03-22,7.0,40.2,Yes,Checkup,65.0,
+V030,Molly,Cat,Sphynx,Reyna Novak,415-555-0134,2024-03-23,1.0,3.6,No,Vaccination,45.0,
+V031,Ginger,Dog,Dachshund,Cole Silva,510-555-0125,2024-03-23,5.0,8.9,Yes,Grooming,38.0,
+V032,Loki,Cat,Bombay,Beth Muller,628-555-0144,2024-03-24,2.0,4.3,Yes,Checkup,60.0,
+V033,Frankie,Rabbit,Flemish Giant,Drew Khan,415-555-0149,2024-03-24,3.0,6.8,No,Checkup,55.0,
+V034,Pepper,Dog,Chihuahua,Alma Diaz,510-555-0162,2024-03-25,8.0,2.6,Yes,Surgery,1050.0,
+V035,Biscuit,Cat,Calico,Ezra Bauer,628-555-0141,2024-03-25,4.0,4.7,Yes,Vaccination,45.0,
+V036,Rusty,Dog,Beagle,Cass Singh,415-555-0159,2024-03-26,,,No,Checkup,65.0,"Owner cancelled visit, only fee logged"
+V037,Misty,Bird,Cockatoo,Trina Haddad,510-555-0171,2024-03-26,3.0,0.45,Yes,Checkup,35.0,
+V038,Buster,Dog,Great Dane,Hugo Nakamura,628-555-0118,2024-03-27,2.0,52.0,Yes,Surgery,1500.0,
+V039,Olive,Cat,British Shorthair,Nadia Wren,415-555-0105,2024-03-27,5.0,4.8,No,Grooming,40.0,
+V040,Finn,Dog,Border Collie,Marcus Reyes,510-555-0199,2024-03-28,3.0,18.3,Yes,Checkup,65.0,
+V041,Rosie,Rabbit,Angora,Elena Voss,628-555-0177,2024-03-28,2.0,2.3,Yes,Vaccination,40.0,
+V042,Peanut,Cat,Persian,Owen Marsh,415-555-0129,2024-03-29,1.0,3.9,No,Checkup,60.0,
