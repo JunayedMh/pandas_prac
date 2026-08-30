@@ -1,9 +1,0 @@
-PatientID,PetName,OwnerName,OwnerPhone,VisitReason,Vaccinated
-V003,Bella,Maria Chen,628-555-0110,Grooming,No
-V004,Charlie,Tom Reyes,628-555-0177,Vaccination,No
-V015,Leo,Chet Vance,628-555-0170,Checkup,No
-V018,Nala,Wendy Falk,628-555-0131,Vaccination,No
-V022,Shadow,Sonia Hollis,510-555-0173,Checkup,No
-V030,Molly,Reyna Novak,415-555-0134,Vaccination,No
-V039,Olive,Nadia Wren,415-555-0105,Grooming,No
-V042,Peanut,Owen Marsh,415-555-0129,Checkup,No
