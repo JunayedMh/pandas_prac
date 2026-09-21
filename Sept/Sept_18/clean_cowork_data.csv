@@ -1,0 +1,50 @@
+BookingID,MemberName,MemberEmail,MemberPhone,MembershipTier,Branch,BookingDate,DeskType,CheckInMethod,HoursBooked,AmenitiesUsed,Rating,PaymentStatus,AmountBilled,Notes,HourlyRate,Correct_Bill
+B001,Talia Bregman,talia.bregman@mail.com,415-555-0161,Basic,Downtown Hub,2024-06-01,Hot Desk,Mobile App,2.0,None,5,Paid,16.0,,8,16.0
+B002,Desmond Okafor,desmond.okafor@mail.com,415-555-0172,Standard,Riverside Hub,2024-06-02,Dedicated Desk,Key Card,8.0,Phone Booth,5,Paid,48.0,,6,48.0
+B003,Rosalind Fenwick,rosalind.fenwick@mail.com,510-555-0183,Premium,Uptown Hub,2024-06-03,Private Office,Front Desk,6.0,"Whiteboard, Locker, Meeting Room",4,Paid,24.0,,4,24.0
+B004,Kwame Asante,kwame.asante@mail.com,510-555-0194,Basic,Downtown Hub,2024-06-04,Hot Desk,Mobile App,5.0,None,4,Paid,40.0,,8,40.0
+B005,Viola Marchetti,viola.marchetti@mail.com,628-555-0105,Standard,Riverside Hub,2024-06-05,Dedicated Desk,Key Card,3.0,"Whiteboard, Printer, Coffee",5,Paid,18.0,,6,18.0
+B006,Ezra Lindqvist,,628-555-0116,Premium,Uptown Hub,2024-06-06,Private Office,Front Desk,4.0,"Phone Booth, Printer, Coffee",4,Paid,16.0,,4,16.0
+B007,Priyanka Deshmukh,priyanka.deshmukh@mail.com,415-555-0127,Basic,Downtown Hub,2024-06-07,Hot Desk,Mobile App,5.0,"Locker, Printer, Coffee",4,Paid,40.0,,8,40.0
+B008,Hugo Santoro,hugo.santoro@mail.com,,Standard,Riverside Hub,2024-06-08,Dedicated Desk,Key Card,1.0,None,5,Paid,6.0,,6,6.0
+B009,Amara Chukwu,amara.chukwu@mail.com,510-555-0139,Premium,Uptown Hub,2024-06-09,Private Office,Front Desk,2.0,None,4,Pending,8.0,AmountBilled does not match HoursBooked x rate - updated price,4,8.0
+B010,Bertrand Okoye,bertrand.okoye@mail.com,510-555-0140,Basic,Downtown Hub,2024-06-10,Hot Desk,Mobile App,4.0,None,3,Paid,32.0,,8,32.0
+B011,Selin Kaya,selin.kaya@mail.com,628-555-0151,Standard,Riverside Hub,2024-06-11,Dedicated Desk,Key Card,8.0,None,5,Paid,48.0,,6,48.0
+B012,Marcus Feldman,marcus.feldman@mail.com,628-555-0162,Premium,Uptown Hub,2024-06-12,Private Office,Front Desk,2.0,Whiteboard,5,Paid,8.0,,4,8.0
+B013,Odalys Quintero,odalys.quintero@mail.com,415-555-0173,Basic,Downtown Hub,2024-06-13,Hot Desk,Mobile App,8.0,Phone Booth,5,Pending,64.0,,8,64.0
+B014,Nikolai Petrenko,nikolai.petrenko@mail.com,,Standard,Riverside Hub,2024-06-14,Dedicated Desk,Key Card,6.0,Locker,5,Overdue,36.0,,6,36.0
+B015,Fatima Al-Sayed,fatima.al-sayed@mail.com,510-555-0184,Premium,Uptown Hub,2024-06-15,Private Office,Front Desk,8.0,"Printer, Whiteboard",3,Paid,32.0,,4,32.0
+B016,Gideon Westbrook,gideon.westbrook@mail.com,510-555-0195,Basic,Downtown Hub,2024-06-16,Hot Desk,Mobile App,3.0,"Whiteboard, Printer",4,Pending,24.0,,8,24.0
+B017,Camille Duvalier,camille.duvalier@mail.com,628-555-0106,Standard,Riverside Hub,2024-06-17,Dedicated Desk,Key Card,3.0,Printer,4,Paid,18.0,,6,18.0
+B018,Tobias Reinholt,tobias.reinholt@mail.com,628-555-0117,Premium,Uptown Hub,2024-06-18,Private Office,Front Desk,6.0,Locker,5,Paid,24.0,,4,24.0
+B019,Aiyana Whitehorse,aiyana.whitehorse@mail.com,415-555-0128,Basic,Downtown Hub,2024-06-19,Hot Desk,Mobile App,4.0,"Coffee, Whiteboard",4,Paid,32.0,,8,32.0
+B020,Rafael Contreras,rafael.contreras@mail.com,415-555-0139,Standard,Riverside Hub,2024-06-20,Dedicated Desk,Key Card,8.0,Printer,4,Paid,48.0,,6,48.0
+B021,Selin Kaya,selin.kaya@mail.com,628-555-0151,Premium,Uptown Hub,2024-06-21,Private Office,Front Desk,1.0,None,5,Paid,4.0,,4,4.0
+B022,Winifred Asplund,winifred.asplund@mail.com,510-555-0142,Basic,Downtown Hub,2024-06-22,Hot Desk,Mobile App,8.0,"Printer, Meeting Room, Phone Booth",5,Paid,64.0,,8,64.0
+B023,Idris Mwangi,idris.mwangi@mail.com,510-555-0153,Standard,Riverside Hub,2024-06-23,Dedicated Desk,Key Card,6.0,"Whiteboard, Printer",4,Paid,36.0,Duplicate?,6,36.0
+B024,Noor Hendricks,noor.hendricks@mail.com,628-555-0164,Premium,Uptown Hub,2024-06-24,Private Office,Front Desk,4.0,None,5,Paid,16.0,,4,16.0
+B025,Callista Reyes,callista.reyes@mail.com,628-555-0175,Basic,Downtown Hub,2024-06-25,Hot Desk,Mobile App,2.0,None,5,Pending,16.0,,8,16.0
+B026,Talia Bregman,talia.bregman@mail.com,415-555-0161,Standard,Riverside Hub,2024-06-26,Dedicated Desk,Key Card,1.0,Phone Booth,5,Overdue,6.0,,6,6.0
+B027,Desmond Okafor,desmond.okafor@mail.com,415-555-0172,Premium,Uptown Hub,2024-06-27,Private Office,Front Desk,8.0,Meeting Room,5,Paid,32.0,,4,32.0
+B028,Rosalind Fenwick,rosalind.fenwick@mail.com,510-555-0183,Basic,Downtown Hub,2024-06-28,Hot Desk,Mobile App,4.0,"Locker, Printer, Coffee",5,Paid,32.0,,8,32.0
+B029,Kwame Asante,kwame.asante@mail.com,510-555-0194,Standard,Riverside Hub,2024-06-29,Dedicated Desk,Key Card,8.0,"Meeting Room, Locker, Whiteboard",3,Paid,48.0,,6,48.0
+B030,Viola Marchetti,viola.marchetti@mail.com,628-555-0105,Premium,Uptown Hub,2024-06-30,Private Office,Front Desk,3.0,"Phone Booth, Printer, Coffee",3,Paid,12.0,,4,12.0
+B031,Ezra Lindqvist,,628-555-0116,Basic,Downtown Hub,2024-07-01,Hot Desk,Mobile App,6.0,None,4,Paid,48.0,,8,48.0
+B032,Priyanka Deshmukh,priyanka.deshmukh@mail.com,415-555-0127,Standard,Riverside Hub,2024-07-02,Dedicated Desk,Key Card,6.0,None,5,Paid,36.0,,6,36.0
+B033,Hugo Santoro,hugo.santoro@mail.com,,Premium,Uptown Hub,2024-07-03,Private Office,Front Desk,8.0,Printer,3,Pending,32.0,,4,32.0
+B034,Amara Chukwu,amara.chukwu@mail.com,510-555-0139,Basic,Downtown Hub,2024-07-04,Hot Desk,Mobile App,6.0,None,4,Overdue,48.0,,8,48.0
+B035,Bertrand Okoye,bertrand.okoye@mail.com,510-555-0140,Standard,Riverside Hub,2024-07-05,Dedicated Desk,Key Card,2.0,Coffee,5,Paid,12.0,,6,12.0
+B036,Selin Kaya,selin.kaya@mail.com,628-555-0151,Premium,Uptown Hub,2024-07-06,Private Office,Front Desk,8.0,None,4,Pending,32.0,,4,32.0
+B037,Marcus Feldman,marcus.feldman@mail.com,628-555-0162,Basic,Downtown Hub,2024-07-07,Hot Desk,Mobile App,2.0,None,5,Paid,16.0,,8,16.0
+B038,Odalys Quintero,odalys.quintero@mail.com,415-555-0173,Standard,Riverside Hub,2024-07-08,Dedicated Desk,Key Card,1.0,Locker,4,Paid,6.0,,6,6.0
+B039,Nikolai Petrenko,nikolai.petrenko@mail.com,,Premium,Uptown Hub,2024-07-09,Private Office,Front Desk,1.0,Coffee,4,Pending,4.0,,4,4.0
+B040,Fatima Al-Sayed,fatima.al-sayed@mail.com,510-555-0184,Basic,Downtown Hub,2024-07-10,Hot Desk,Mobile App,4.0,"Printer, Coffee, Whiteboard",4,Paid,32.0,,8,32.0
+B041,Gideon Westbrook,gideon.westbrook@mail.com,510-555-0195,Standard,Riverside Hub,2024-07-11,Dedicated Desk,Key Card,,"Meeting Room, Printer, Whiteboard",3,Paid,0.0,"Hours not logged, billing pending",6,
+B042,Camille Duvalier,camille.duvalier@mail.com,628-555-0106,Premium,Uptown Hub,2024-07-12,Private Office,Front Desk,5.0,Phone Booth,4,Paid,20.0,,4,20.0
+B043,Tobias Reinholt,tobias.reinholt@mail.com,628-555-0117,Basic,Downtown Hub,2024-07-13,Hot Desk,Mobile App,6.0,"Whiteboard, Locker",4,Paid,48.0,,8,48.0
+B044,Aiyana Whitehorse,aiyana.whitehorse@mail.com,415-555-0128,Standard,Riverside Hub,2024-07-14,Dedicated Desk,Key Card,3.0,"Meeting Room, Phone Booth",5,Paid,18.0,,6,18.0
+B045,Rafael Contreras,rafael.contreras@mail.com,415-555-0139,Premium,Uptown Hub,2024-07-15,Private Office,Front Desk,5.0,Whiteboard,5,Overdue,20.0,,4,20.0
+B046,Selin Kaya,selin.kaya@mail.com,628-555-0151,Basic,Downtown Hub,2024-07-16,Hot Desk,Mobile App,6.0,Coffee,4,Overdue,48.0,,8,48.0
+B048,Idris Mwangi,idris.mwangi@mail.com,510-555-0153,Premium,Uptown Hub,2024-07-18,Private Office,Front Desk,2.0,"Whiteboard, Meeting Room, Locker",4,Paid,8.0,,4,8.0
+B049,Noor Hendricks,noor.hendricks@mail.com,628-555-0164,Basic,Downtown Hub,2024-07-19,Hot Desk,Mobile App,4.0,Locker,4,Paid,32.0,,8,32.0
+B050,Callista Reyes,callista.reyes@mail.com,628-555-0175,Standard,Riverside Hub,2024-07-20,Dedicated Desk,Key Card,3.0,"Coffee, Whiteboard, Locker",5,Paid,18.0,,6,18.0
